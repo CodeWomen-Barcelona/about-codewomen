@@ -2,7 +2,7 @@
 
 
 
-<img src="/cw_logo_gh.png" width="200"  />                                       <img src="/migracode-logo.png" width="200" />  
+<img src="/cw_logo.png" width="200"  />                                       <img src="/migracode-logo.png" width="200" />  
 <br>
 
 
