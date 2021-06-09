@@ -19,7 +19,7 @@ For each project, we aim to have different levels: for starters, for students, a
 
 
 ## Please note:
-If you want to download this code on your local machine, do not fork it but clone the repo and then create a new repo to use in your own GitHub account, so that it is your own project and not a fork of this project. You can connect a local project to a new, empty GitHub repo [as follows](https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line). We can do this together during the coding session: it is very good to know this so that you can start a project locally and later on link it with a remote GitHub repo.
+If you want to download this code on your local machine, do not fork it but clone the repo and then create a new repo to use in your own GitHub account, so that it is your own project and not a fork of this project. You can connect a local project to a new, empty GitHub repo [as follows](https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line). We can do this together during a CodeWomen coding session: it is very good to know this so that you can start a project locally and later on link it with a remote GitHub repo.
 
 If you clone and do not fork the project, you will have to change the 'remote origin' repository after cloning. Check the remote of your local project_advice_generator project using `git remote -v`. You will probably see:  
 `origin  https://github.com/CodeWomen-Barcelona/some-codewomen-project.git (fetch)`  
