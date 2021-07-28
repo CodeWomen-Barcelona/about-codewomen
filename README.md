@@ -13,7 +13,7 @@
 ---
 
 
-This repository is used for the projects that are created for the :muscle: CodeWomen :computer: coding sessions.
+This repository is used for the projects that are created for the 👩🏿‍💻  :muscle: 👩🏼‍💻 CodeWomen 🧕🏽 👩🏾‍💻 :computer: coding sessions.
 
 For each project, we aim to have different levels: for starters, for students, and for graduates. What do we mean by these levels?
 * 💻 starters: the student has learned HTML and CSS, possibly started learning JavaScript
