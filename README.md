@@ -23,6 +23,7 @@ For each project, we aim to have different levels: for starters, for students, a
 
 In the README docs, the challenges for the three levels are explained. All CodeWomen can work on any and every level of these projects they want. As always in programming, there are various ways to build the projects. 
 
+<img src="/octocat.png" width="200"  /> 
 
 ## Please note:
 If you want to download a project on your local machine, do not fork it but clone the repo locally, on your computer. After that, create a new repo in your own GitHub account *with exactly the same project name*, and link the local repo to the remote repo in your GitHub account (see below). Why should you clone and not fork? It will show the project as **your own project** and not a fork of someone else's project. You can use it as a project for your portfolio.
