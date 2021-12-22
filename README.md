@@ -8,6 +8,8 @@
 
 [Read about CodeWomen](https://migracode.openculturalcenter.org/codewomen)  
 
+[Follow us on LinkedIn](https://es.linkedin.com/showcase/migracode-codewomen)  
+
 [Read about MigraCode](https://migracode.openculturalcenter.org/)
 
 ---
