@@ -2,15 +2,15 @@
 
 
 
-<img src="/cw_logo.png" width="200"  />                                       <img src="/migracode-logo.png" width="200" />  
+<img src="/cw_logo.png" width="200"  />
 <br>
 
 
-[Read about CodeWomen](https://migracode.openculturalcenter.org/codewomen)  
+[Read about CodeWomen](https://codewomen-barcelona.notion.site/CodeWomen-e233c21e203d41fab28acb1db8b00274)  
 
 [Follow us on LinkedIn](https://es.linkedin.com/showcase/migracode-codewomen)  
 
-[Read about MigraCode](https://migracode.openculturalcenter.org/)
+[Follow us on Eventbrite](https://www.eventbrite.es/o/codewomen-52362448213)
 
 ---
 
