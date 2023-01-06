@@ -40,6 +40,6 @@ To link your local project to your own GitHub repo, you need to change the remot
 
 --- 
 
-**Important:** if you work for a company that has a corporate social responsibility policy and wants to support women in tech, then here is the link to the [fundraising overview of MigraCode](https://docs.google.com/spreadsheets/d/1Zs-Mmi39bcjVw2U-iEQWSHSjkb-EmET-j1WB2oJF45Q/edit#gid=0).
+**Important:** if you work for a company that has a corporate social responsibility policy and wants to support women in tech, then here is the link to the [sponsoring information on the CodeWomen website](https://codewomen-barcelona.notion.site/Sponsoring-funding-001b8b368b5a411fb1065e309584b283).
 
 ---
