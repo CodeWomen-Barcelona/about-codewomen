@@ -2,7 +2,7 @@
 
 
 
-<img src="/cw_logo.png" width="200"  />
+<img src="/cw_logo.jpg" width="300"  />
 <br>
 
 
