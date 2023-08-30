@@ -2,7 +2,7 @@
 
 
 
-<img src="/cw_logo.jpg" width="300"  />
+<img src="/CW-horizontal-light.png" width="300"  />
 <br>
 
 
