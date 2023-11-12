@@ -1,6 +1,6 @@
-This repository is used for the projects that are created for women who want to code.
+This repository is used for the projects that are created for women who want to code and need inspiration for a project.
 
-For each project,there are different levels: for starters, for students, and for graduates. What do we mean by these levels?
+For each project, there are different levels: for starters, for students, and for graduates. What do we mean by these levels?
 * 💻 starters: the student has learned HTML and CSS, possibly started learning JavaScript
 * 💻 💻 students (also called 'more advanced'): the student has learned HTML, CSS and JavaScript, possibly also React
 * 💻 💻 💻 graduates: students have finished a bootcamp or have been self-learning all the above plus Node.js, Express and PostgreSQL  
