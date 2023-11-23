@@ -1,3 +1,7 @@
+
+
+The TechFems organization brings together women+ from various tech fields: data analysis, UX/UI design, software development, product management, tech recruitment, game development, blockchain, machine learning, and more. What brings all these professional women+ together is the drive to build a community where women+ can learn together, meet other women to build a network, and support each other. TechFems is providing a safe space for women+ to empower each other. In a sector where women+ are by far the minority, TechFems offers a warm welcome and a supportive community, full of learning, networking, and social activities.
+
 This repository is used for the projects that are created for women who want to code and need inspiration for a project.
 
 For each project, there are different levels: for starters, for students, and for graduates. What do we mean by these levels?
